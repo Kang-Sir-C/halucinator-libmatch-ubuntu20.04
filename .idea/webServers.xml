@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b1f1bfe-4008-4121-ab43-cc11bde7315d" name="192.168.3.40">
+        <fileTransfer rootFolder="/home/embedded" accessType="SFTP" host="192.168.3.40" port="22" sshConfigId="cf618cec-4efa-4e57-9758-c8015a02b7f8" sshConfig="embedded@192.168.3.40:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
